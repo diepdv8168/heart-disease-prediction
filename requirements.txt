@@ -1,0 +1,10 @@
+# Danh sách thư viện và phiên bản cho Bài tập lớn Môn Học máy (HUCE)
+# Đề tài: Dự báo Nguy cơ Mắc Bệnh Tim Mạch (Cardiovascular Disease Risk Prediction)
+
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scikit-learn>=1.2.0
+joblib>=1.3.0
+jupyterlab>=4.0.0
